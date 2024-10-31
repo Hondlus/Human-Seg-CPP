@@ -1,0 +1,2 @@
+E:\humanseg\x64\Release\humanseg.exe
+C:\Users\hldes\Desktop\humanseg\x64\Release\humanseg.exe

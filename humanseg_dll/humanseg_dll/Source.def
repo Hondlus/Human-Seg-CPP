@@ -1,0 +1,3 @@
+LIBRARY GeneratrDLL
+EXPORTS
+modnet_init @1

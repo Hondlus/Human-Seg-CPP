@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  humanseg_dll.cpp
+    正在创建库 C:\Users\hldes\Desktop\humanseg_dll\x64\Release\humanseg_dll.lib 和对象 C:\Users\hldes\Desktop\humanseg_dll\x64\Release\humanseg_dll.exp
+  Previous IPDB not found, fall back to full compilation.
+humanseg_dll.exp : warning LNK4070: .EXP 中的 /OUT:GeneratrDLL.dll 指令与输出文件名“C:\Users\hldes\Desktop\humanseg_dll\x64\Release\humanseg_dll.dll”不同；忽略指令
+  正在生成代码
+  All 447 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+humanseg_dll.exp : warning LNK4070: .EXP 中的 /OUT:GeneratrDLL.dll 指令与输出文件名“C:\Users\hldes\Desktop\humanseg_dll\x64\Release\humanseg_dll.dll”不同；忽略指令
+  humanseg_dll.vcxproj -> C:\Users\hldes\Desktop\humanseg_dll\x64\Release\humanseg_dll.dll
